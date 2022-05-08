@@ -4,7 +4,8 @@
 [Vendor](https://itsourcecode.com/author/unguardable/)
 ---
 
-![image-20220508152043091](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20220508152043091.png)
+![图片](https://user-images.githubusercontent.com/23294478/167287177-e0668d4e-0d93-42fe-ab75-99fadba4c7f9.png)
+
 
 ### Description:
 ---
@@ -41,8 +42,11 @@ Upgrade-Insecure-Requests: 1
 ### In action:
 ---
 
-![image-20220508152225728](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20220508152225728.png)
+![图片](https://user-images.githubusercontent.com/23294478/167287194-2e52da93-30a6-4f7c-b8f5-a2b1048921e6.png)
+
 
 ### Proof and Exploit:
 ---
-<video src="G:\z郑州work\资料\培训\河南交通职业技术学院\录屏\example.mp4"></video>
+
+https://user-images.githubusercontent.com/23294478/167287234-9d07a890-c975-4077-b316-72d2dc40acd1.mp4
+
